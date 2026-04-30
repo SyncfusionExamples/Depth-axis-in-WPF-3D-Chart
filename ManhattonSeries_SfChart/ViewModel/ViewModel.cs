@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace SfChart_ManhattonSeries
+namespace ManhattonSeries_SfChart
 {
     public class ViewModel
     {

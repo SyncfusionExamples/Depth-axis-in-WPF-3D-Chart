@@ -1,4 +1,4 @@
-﻿namespace SfChart_ManhattonSeries
+﻿namespace ManhattonSeries_SfChart
 {
     public class Model
     {
