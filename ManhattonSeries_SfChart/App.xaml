@@ -1,6 +1,7 @@
-﻿<Application x:Class="SfChart_ManhattonSeries.App"
+﻿<Application x:Class="ManhattonSeries_SfChart.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ManhattonSeries_SfChart"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
